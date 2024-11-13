@@ -1,3 +1,4 @@
 # Mean-Variance-Standard Deviation Calculator
 
-This is the boilerplate for the Mean-Variance-Standard Deviation Calculator project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
+## Overview
+This project provides a calculator for computing the mean, variance, and standard deviation of a 3x3 matrix using python and Numpy. The calculations are performed along axis1, axi2 and fro the flattened matrix.
